@@ -62,10 +62,15 @@ const GALLERY_PHOTOS = [
    Setiap string adalah satu paragraf.
    Bisa ditambah atau dikurangi paragrafnya.                       */
 const LETTER_PARAGRAPHS = [
-  "I wanted to send this the way old sailors used to send word home — sealed up, set adrift, and trusted to find its way to you.",
-  "Honestly, today is your day. I hope it feels exactly like that: unhurried, warm, and full of small good things. You literally deserve every bit of it.",
-  "Thank you for being the kind of person whose presence makes ordinary days feel like something worth remembering. Like, seriously, this little corner of the internet is just my small way of saying that.",
-  "However you spend today, I just hope you're surrounded by people who love you as much as I do. Happy birthday, you.",
+"I wanted to send this the way old sailors used to send word home — sealed up, set adrift, and trusted to find its way to you.",
+
+"Aku pengen ngirim ini dengan cara para pelaut zaman dulu ngirim kabar pulang — disegel, dilepas ke lautan, lalu dipercaya bakal nemuin jalannya sendiri sampai ke kamu.",
+
+"Jujur aja, hari ini adalah hari kamu. Aku harap hari ini terasa persis seperti yang seharusnya: santai, hangat, dan dipenuhi hal-hal kecil yang bikin bahagia. Kamu bener-bener pantas dapet semuanya.",
+
+"Makasih ya karena udah jadi orang yang kehadirannya bisa bikin hari-hari biasa terasa jadi sesuatu yang layak diinget. Seriously, sudut kecil di internet ini cuma cara sederhana aku buat bilang itu ke kamu.",
+
+"Gimana pun cara kamu ngelewatin hari ini, aku cuma berharap kamu dikelilingi orang-orang yang sayang sama kamu sebesar aku sayang sama kamu. Selamat ulang tahun, kamu."
 ];
 
 /* ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
