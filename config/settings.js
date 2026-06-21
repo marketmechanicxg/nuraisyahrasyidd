@@ -63,13 +63,13 @@ const GALLERY_PHOTOS = [
    Bisa ditambah atau dikurangi paragrafnya.                       */
 const LETTER_PARAGRAPHS = [
 
-"Aku pengen ngirim ini dengan cara para pelaut zaman dulu ngirim kabar pulang — disegel, dilepas ke lautan, lalu dipercaya bakal nemuin jalannya sendiri sampai ke sayang.",
+"Aku pengen ngirim ini dengan cara para pelaut zaman dulu ngirim kabar pulang — disegel, dilepas ke lautan, lalu dipercaya bakal nemuin jalannya sendiri sampai ke kamu.",
 
-"Jujur aja, hari ini adalah hari sayang. Aku harap hari ini terasa persis seperti yang seharusnya: santai, hangat, dan dipenuhi hal-hal kecil yang bikin bahagia. sayang bener-bener pantas dapet semuanya.",
+"Jujur aja, hari ini adalah hari kamu. Aku harap hari ini terasa persis seperti yang seharusnya: santai, hangat, dan dipenuhi hal-hal kecil yang bikin bahagia. kamu bener-bener pantas dapet semuanya.",
 
 "Makasih ya karena udah jadi orang yang kehadirannya bisa bikin hari-hari biasa terasa jadi sesuatu yang layak diinget. Seriously, sudut kecil di internet ini cuma cara sederhana aku buat bilang itu ke sayang.",
 
-"Gimana pun cara sayang ngelewatin hari ini, aku cuma berharap sayang dikelilingi orang-orang yang sayang sama sayang sebesar aku sayang sama sayang. Selamat ulang tahun, sayang."
+"Gimana pun cara kamu ngelewatin hari ini, aku cuma berharap kamu dikelilingi orang-orang yang sayang sama kamu sebesar aku sayang sama kamu. Selamat ulang tahun, sayang."
 ];
 
 /* ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
